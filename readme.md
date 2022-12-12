@@ -12,7 +12,7 @@ Sou desenvolvedor Back-end e entusiasta por Tecnologia.
 </br>
 </br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maicongtbrl&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maicongtbr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicongtbr&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div align='center'>
