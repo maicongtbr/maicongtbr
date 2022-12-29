@@ -2,7 +2,7 @@
 Sou desenvolvedor Back-end e entusiasta por Tecnologia.
 
 - 🌱 Atualmente estou aprendendo JavaScript e C++, com o objetivo de futuramente passar meu foco para Java.
--
+
 ## Entre em contato comigo por:
 
 - 📫 E-mail: <a href="mailto:michael-daguia@hotmail.com"> michael-daguia@hotmail.com </a>
