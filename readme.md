@@ -1,4 +1,4 @@
-## 👋 Olá Mundo! Eu sou José Michael
+## 👋 Olá, eu sou José Michael.
 Sou desenvolvedor Back-end e entusiasta por Tecnologia.
 
 - 🌱 Atualmente estou aprendendo JavaScript e C++, com o objetivo de futuramente passar meu foco para Java.
