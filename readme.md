@@ -1,7 +1,7 @@
 ## 👋 Olá Mundo! Eu sou José Michael
 Sou desenvolvedor Back-end e entusiasta por Tecnologia.
 
-- 🌱 Atualmente estou aprendendo JavaScript, com o objetivo de futuramente passar meu foco para TypeScript.
+- 🌱 Atualmente estou aprendendo JavaScript e C++, com o objetivo de futuramente passar meu foco para Java.
 -
 ## Entre em contato comigo por:
 
