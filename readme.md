@@ -25,7 +25,6 @@ Sou desenvolvedor Back-end e entusiasta por Tecnologia.
  <div align="center">
      <div style="display: inline_block margin-left:auto margin-rigth:auto"><br> 
        <img align="center" alt="JavaScript icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
-       <img align="center" alt="C# icon" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png">
        <img align="center" alt="MongoDB icon" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3629020-3030245.png">
        <img align="center" alt="Git icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
